@@ -1,3 +1,11 @@
+---
+layout: post
+title: "동적 SQL"
+date: 2022-07-26
+categories: SQL-Server
+---
+
+
 # WIP - 동적 SQL
 
 [toc]
