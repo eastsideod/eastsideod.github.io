@@ -341,13 +341,13 @@ footer {
 table{
     border-collapse: collapse;
     border-spacing: 0;
-    border:2px solid #ff0000;
+    border:2px solid #757575;
 }
 
 th{
-    border:2px solid #000000;
+    border:2px solid #757575;
 }
 
 td{
-    border:1px solid #000000;
+    border:1px solid #757575;
 }
