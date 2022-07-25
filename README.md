@@ -4,6 +4,11 @@ title: Author
 permalink: /author/
 ---
 
+## Contact
+
+eastsideod@gmail.com
+
+
 ## Career
 
 ------------------------------------
