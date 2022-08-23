@@ -2,7 +2,7 @@
 layout: post
 title: "IL 코드 알아보기"
 date: 2022-08-19
-categories: C#
+categories: C# IL
 tags: IL C#
 ---
 
